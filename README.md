@@ -1,7 +1,7 @@
 # python_assignment2
 
 ## Title
-python_coinGecko_assignment
+python scraping all the related information about different cryptocurrencies
 
 ### Table of Contents
 - [Installation](#installation)
